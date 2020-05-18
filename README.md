@@ -8,3 +8,4 @@
 * 04-27: 添加`Bash文件夹及其子文件夹commands和script`并添加了70多个命令
 * 04-28: 添加`Flask 常用设计结构.pdf`, `Flask-Assets-CN.pdf`
 * 05-09: 添加`Flask-Login-CN.pdf`
+* 05-18: 添加`Flask-Avatars-CN.pdf`
